@@ -1,4 +1,4 @@
-**The project is a UNet network which trained for the segmentation of road lanes**
+**UNet-style network for segmentation of road lanes**
 
 **Final metrics:**
 
